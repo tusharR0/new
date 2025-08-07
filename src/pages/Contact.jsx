@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar'; // ✅ Ensure Navbar is imported correctly
-//import '../components/Contact.css';
+import '../styles/contact.css';
  // ✅ Your styling
 
 const Contact = () => {
