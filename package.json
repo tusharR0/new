@@ -1,7 +1,7 @@
 {
   "name": "vite-nexcent-resume",
   "version": "1.0.0",
-  "homepage": "https://tusharR0.github.io/new/",
+ 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
